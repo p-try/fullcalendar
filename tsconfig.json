@@ -8,6 +8,7 @@
     { "path": "packages/core" },
     { "path": "packages/common" },
     { "path": "packages/daygrid" },
+    { "path": "packages/yearview" },
     { "path": "packages/timegrid" },
     { "path": "packages/icalendar" },
     { "path": "packages/interaction" },

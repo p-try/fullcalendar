@@ -1,0 +1,30 @@
+{
+  "name": "@p-try/fullcalendar-yearview",
+  "version": "5.11.0",
+  "title": "FullCalendar Year View Plugin",
+  "description": "Display events on a full-year view where each month is a row",
+  "docs": "https://fullcalendar.io/docs",
+  "dependencies": {
+    "@fullcalendar/common": "workspace:~5.11.0",
+    "tslib": "^2.1.0"
+  },
+  "main": "main.cjs.js",
+  "module": "main.js",
+  "types": "main.d.ts",
+  "jsdelivr": "main.global.min.js",
+  "browserGlobal": "FullCalendarYearView",
+  "homepage": "https://fullcalendar.io/",
+  "bugs": "https://fullcalendar.io/reporting-bugs",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/p-try/fullcalendar.git",
+    "homepage": "https://github.com/p-try/fullcalendar"
+  },
+  "license": "MIT",
+  "author": {
+    "name": "Julian Petri"
+  },
+  "devDependencies": {
+    "@fullcalendar/core-preact": "workspace:*"
+  }
+}
