@@ -1,7 +1,7 @@
 const fs = require('fs')
 const path = require('path')
 const rootPkgConfig = require('../../package.json')
-const premiumPkgConfig = require('../../packages-premium/package.json')
+//const premiumPkgConfig = require('../../packages-premium/package.json')
 
 
 exports.checkNoSymlinks = checkNoSymlinks
